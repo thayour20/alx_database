@@ -1,2 +1,4 @@
-/*how to show all available databases*/
+/*
+how to show all available databases
+*/
 SHOW databases;
