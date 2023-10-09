@@ -1,0 +1,1 @@
+the purpose of this repository is to exercise some examples on database
